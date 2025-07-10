@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 I was awarded the Grand Prize in the National English Competition for College Students (NECCS) by the National Association for Foreign Language Teaching and Research in Higher Normal Universities. 
+- *2024.05*: &nbsp;🎉🎉 I was awarded **the Grand Prize** in the National English Competition for College Students (NECCS) by the National Association for Foreign Language Teaching and Research in Higher Normal Universities. 
 
 # 📝 Publications 
 
